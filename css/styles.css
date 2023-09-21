@@ -105,6 +105,7 @@ ul {
   background: #2E2F42;
 }
 .section-team {
+  background-color: #F4F4FD;
 }
 .services {
 }
@@ -133,7 +134,7 @@ ul {
 .portfolio__picture {
 }
 .portfolio__title {
-}#FFF
+}
 .portfolio__description {
   letter-spacing: 0.02em;
 }
