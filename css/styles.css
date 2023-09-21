@@ -6,7 +6,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.03em;
   background: #fff;
-  
 }
 a {
   text-decoration: none;
@@ -31,12 +30,45 @@ ul {
 .logo span {
   color: #4d5ae5;
 }
+.title {
+  color: #2E2F42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.main-title {
+  color: #FFF;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  text-align: center;
+}
+.subtitle {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.services-title {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
 .button {
   color: #FFF;
   font-size: inherit;
+  font-family: inherit;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background-color: #4D5AE5;
+  cursor: pointer;
+}
+.button:hover, 
+.button:focus {
+  background-color: #404BBF;
 }
 .nav-list {
 }
@@ -68,23 +100,10 @@ ul {
 }
 .section {
 }
-.title {
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
+.section-solutions {
+  background: #2E2F42;
 }
-.main-title {
-  color: #FFF;
-  font-size: 56px;
-  font-weight: 700;
-  line-height: 1.07;
-}
-.subtitle {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
+.section-team {
 }
 .services {
 }
@@ -93,8 +112,10 @@ ul {
 .services__title {
 }
 .services__content {
+  letter-spacing: 0.02em;
 }
 .members {
+  background-color: inherit; 
 }
 .members__item {
 }
@@ -116,13 +137,14 @@ ul {
 }
 .footer {
   color: #F4F4FD;
+  background: #2E2F42;
 }
 .footer__content {
+  letter-spacing: 0.02em;
 }
 
 
 
-/* Header 1 */
 
 
 
@@ -132,7 +154,6 @@ ul {
 
 
 
-/* Header 2 */
 
 
 
@@ -142,7 +163,9 @@ ul {
 
 
 
-/* Header 3 */
+
+
+
 
 
 
