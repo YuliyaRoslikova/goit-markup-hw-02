@@ -13,7 +13,6 @@ a {
 ul {
   list-style: none;
 }
-
 .header {
 }
 .header__nav {
@@ -25,10 +24,10 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #F4F4FD;
+  color: #4d5ae5;
 }
 .logo span {
-  color: #4d5ae5;
+  color: #2E2F42;
 }
 .title {
   color: #2E2F42;
@@ -95,6 +94,7 @@ ul {
 }
 .address-list__link {
   color: #434455;
+  letter-spacing: 0.02em;
 }
 .main-content {
 }
@@ -139,37 +139,9 @@ ul {
   color: #F4F4FD;
   background: #2E2F42;
 }
+.footer__logo span {
+  color: #F4F4FD;
+}
 .footer__content {
   letter-spacing: 0.02em;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
