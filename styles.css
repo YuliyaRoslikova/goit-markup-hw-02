@@ -1,0 +1,79 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  background: #fff;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+
+.header {
+}
+.header__nav {
+}
+.logo {
+  font-family: 'Raleway', sans-serif;
+}
+.nav-list {
+}
+.nav-list__item {
+}
+.nav-list__link {
+}
+.header__address {
+}
+.address-list {
+}
+.address-list__item {
+}
+.address-list__link {
+}
+.main-content {
+}
+.section {
+}
+.main-title {
+}
+.title {
+}
+.services {
+}
+.services__item {
+}
+.services__title {
+}
+.services__content {
+}
+.members {
+}
+.members__item {
+}
+.members__picture {
+}
+.subtitle {
+}
+.members__names {
+}
+.members__position {
+}
+.portfolio {
+}
+.portfolio__item {
+}
+.portfolio__picture {
+}
+.portfolio__title {
+}
+.portfolio__description {
+}
+.footer {
+}
+.footer__content {
+}
