@@ -120,12 +120,14 @@ ul {
   background-color: inherit; 
 }
 .members__item {
+  background-color: #FFFFFF;
 }
 .members__picture {
 }
 .members__names {
 }
 .members__position {
+  letter-spacing: 0.02em;
 }
 .portfolio {
 }
